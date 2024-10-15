@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daeyeon/static/css/main.d14cd89f.css",
+    "main.js": "/daeyeon/static/js/main.a32274ef.js",
+    "static/js/453.6c4df698.chunk.js": "/daeyeon/static/js/453.6c4df698.chunk.js",
+    "index.html": "/daeyeon/index.html",
+    "main.d14cd89f.css.map": "/daeyeon/static/css/main.d14cd89f.css.map",
+    "main.a32274ef.js.map": "/daeyeon/static/js/main.a32274ef.js.map",
+    "453.6c4df698.chunk.js.map": "/daeyeon/static/js/453.6c4df698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14cd89f.css",
+    "static/js/main.a32274ef.js"
+  ]
+}
